@@ -1,0 +1,3 @@
+[submodule "drqa-webui"]
+	path = drqa-webui
+	url = https://github.com/namlh201/drqa-webui

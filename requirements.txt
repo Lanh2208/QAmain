@@ -1,0 +1,17 @@
+numpy
+scikit-learn
+termcolor
+regex
+prettytable
+scipy
+nltk
+elasticsearch
+pexpect
+transformers
+spacy
+pyserini
+gunicorn
+flask
+tqdm>=4.56.0
+pydantic
+pyngrok
